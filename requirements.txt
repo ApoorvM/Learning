@@ -1,3 +1,5 @@
-pyspark==3.3.2
+pyspark
 pandas
 openpyxl
+scikit-learn
+
